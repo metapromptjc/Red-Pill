@@ -1,7 +1,5 @@
 # 🔴 Red Pill - AI-Powered $10K/Month Business Builder
 
-<div align="center">
-
 **Transform any entrepreneur from $0 to $10,000/month in predictable revenue**  
 *Through personalized, psychologically-aware AI guidance*
 
@@ -244,8 +242,6 @@ Red Pill is built on insights from:
 **Special thanks** to every entrepreneur who's used Red Pill and shared their journey to $10K/month!
 
 ---
-
-<div align="center">
 
 **Engineered by [@metapromptjc](https://twitter.com/metapromptjc)**
 
